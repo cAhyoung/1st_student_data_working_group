@@ -5,7 +5,7 @@
 - 데이터 기반의 학생 교육 활동 및 대학 인프라 분석 프로젝트 진행
      
 ##### 1기 구성원
-|김규리|김서연|김에진|조아영|
+|김규리|김서연|김예진|조아영|
 |------|-------|-------|-------|
 | 21 데이터사이언스학과 | 21 데이터사이언스학과 | 20 수학과 | 21 데이터사이언스학과|
 |<a href="https://github.com/ds-kyuree">ds-kyuree</a>|<a href="https://github.com/seoyeon83">seoyeon83</a>|<a href="https://github.com/06kyj20">06kyj20</a>|<a href="https://github.com/cAhyoung">cAhyoung</a>| 
