@@ -6,7 +6,7 @@
      
 ##### 1기 구성원
 |<a href="https://github.com/ds-kyuree"><img src="/img/규리.png"></a>|<a href="https://github.com/seoyeon83"><img src="/img/서연.png"></a>|<a href="https://github.com/06kyj20"><img src="/img/예진.png"></a>|<a href="https://github.com/cAhyoung"><img src="/img/아영.jpg"></a>|
-|------|-------|-------|-------|
+|:------:|:-------:|:-------:|:-------:|
 |김규리|김서연|김예진|조아영|
 | 21 데이터사이언스학과 | 21 데이터사이언스학과 | 20 수학과 | 21 데이터사이언스학과| 
 
