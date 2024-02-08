@@ -32,18 +32,18 @@
 *2024.02.08* | **학생 데이터 워킹 그룹 수료식, 최종 보고서 작성**      
 
 ### 결과물
-<img src="/img/모델링결과.png" width=500px>
-<img src="/img/유의변수결과.png" width=500px>
-<img src="/img/인사이트1.png" width=500px>
-<img src="/img/인사이트2.png" width=500px>
-<img src="/img/인사이트3.png" width=500px>
-<img src="/img/인사이트4.png" width=500px>
-<img src="/img/인사이트5.png" width=500px>
+<img src="/img/모델링_결과.png" width=800px>
+<img src="/img/유의변수결과.png" width=800px>
+<img src="/img/인사이트1.png" width=800px>
+<img src="/img/인사이트2.png" width=800px>
+<img src="/img/인사이트3.png" width=800px>
+<img src="/img/인사이트4.png" width=800px>
+<img src="/img/인사이트5.png" width=800px>
 
 ### 서울여자대학교 대학혁신사업 혁신포럼 발표
-<img src="/img/발표사진.JPEG" width=500px>
-<img src="/img/발표후사진.JPEG" width=500px>
+<img src="/img/발표사진.JPEG" width=600px>
+<img src="/img/발표후사진.JPEG" width=600px>
 
 ### 학생 데이터 워킹 그룹 수료
-<img src="/img/수료식사진.JPEG" width=500px>
-<img src="/img/수료증사진.JPEG" width=500px>
+<img src="/img/수료식사진.JPEG" width=600px>
+<img src="/img/수료증사진.JPEG" width=600px>
