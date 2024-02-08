@@ -30,3 +30,9 @@
 ##### 결과물
 
 ##### 서울여자대학교 대학혁신사업 혁신포럼 발표
+<img src="/img/발표사진.JPEG" width=500px>
+<img src="/img/발표후사진.JPEG" width=500px>
+
+##### 학생 데이터 워킹 그룹 수료
+<img src="/img/수료식사진.JPEG" width=500px>
+<img src="/img/수료증사진.JPEG" width=500px>
